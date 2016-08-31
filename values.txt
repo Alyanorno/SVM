@@ -1,0 +1,5 @@
+death you : 1
+death others : 0
+no death : 0
+death no : 1
+death : 1
